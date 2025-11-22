@@ -15,7 +15,7 @@ colorization/
 └── test_bw.jpg
 ```
 
-## 🚀 Running the Project
+## Running the Project
 
 ### 1. Install dependencies
 ```
@@ -50,4 +50,3 @@ Run:
 python main.py
 ```
 
-Enjoy! 🚀

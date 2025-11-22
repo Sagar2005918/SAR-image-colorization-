@@ -1,4 +1,4 @@
-# PyTorch Image Colorization (Functional, No Classes, Multi-file)
+# PyTorch SAR Image Colorization (Functional)
 
 ## 📁 Folder Structure
 ```
